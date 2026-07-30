@@ -1,7 +1,7 @@
 Package: mvBayes
 Type: Package
 Title: Multivariate Bayesian Regression
-Version: 1.2.1
+Version: 1.2.2
 Authors@R: c(
     person(given = "Gavin", 
            family = "Collins", 
@@ -25,11 +25,11 @@ URL: https://github.com/sandialabs/mvBayesR
 BugReports: https://github.com/sandialabs/mvBayesR/issues
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2026-05-28 14:05:24 UTC; jdtuck
+Packaged: 2026-07-30 17:58:33 UTC; jdtuck
 Author: Gavin Collins [aut, ctb],
   J. Derek Tucker [ctb, cre] (ORCID:
     <https://orcid.org/0000-0001-8844-2169>),
   Sandia National Laboratories [cph, fnd]
 Maintainer: J. Derek Tucker <jdtuck@sandia.gov>
 Repository: CRAN
-Date/Publication: 2026-06-01 09:10:02 UTC
+Date/Publication: 2026-07-30 18:30:02 UTC
